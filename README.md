@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Hello,+World!+✨;💻+Systems+Information+Student;🎨+Designer+%26+Creative+Mind;🌷+Welcome+to+my+GitHub!" />
-
 <br>
 
-# 🪐 Marcos Oliveira 🌠
+# 🪐 ㅤ๋࣭⭑ℳ𝒂𝒓𝒄𝒐𝒔 ࣪ ִֶָ ☾ . 🌠
 
 ### 💻 Systems Information Student
 ### 🎨 Social Media Designer
