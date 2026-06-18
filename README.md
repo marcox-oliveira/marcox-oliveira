@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<br>
-
 # 🪐 ㅤ๋࣭⭑ℳ𝒂𝒓𝒄𝒐𝒔 ࣪ ִֶָ ☾ . 🌠
 
 ### 💻 Systems Information Student
